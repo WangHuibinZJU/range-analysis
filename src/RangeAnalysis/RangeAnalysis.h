@@ -52,6 +52,7 @@
 #include "llvm/Pass.h"
 #include "llvm/Support/raw_ostream.h"
 #include "llvm/Support/Timer.h"
+#include "llvm/IR/Instructions.h"
 
 namespace llvm {
 class BranchInst;
